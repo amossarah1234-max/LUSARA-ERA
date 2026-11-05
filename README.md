@@ -184,8 +184,8 @@
             </a>
             
             <a 
-                href="https://www.tiktok.com/@lusara01" target="_blank" rel="noopener noreferrer">
-            
+                href="https://www.tiktok.com/@lusara01?_r=1&_t=ZS-9BA6SNg1vtP" target="_blank" rel="noopener noreferrer">
+                 TikTok 
             </a>
         </div>
 
