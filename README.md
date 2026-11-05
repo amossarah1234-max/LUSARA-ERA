@@ -128,22 +128,6 @@
 
             </div>
 
-            <!-- Men's Footwear -->
-            <div class="category">
-
-                <img
-                    src="https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=800&q=85"
-                    alt="Men's footwear"
-                >
-
-                <div class="category-text">
-                    <p>03 / MEN'S FOOTWEAR</p>
-                    <h3>Step with confidence.</h3>
-                    <a href="#contact">ENQUIRE NOW →</a>
-                </div>
-
-            </div>
-
         </div>
 
     </section>
