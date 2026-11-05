@@ -198,7 +198,7 @@
     <footer>
 
            <a href="#home" class="logo">
-                <img src="IMG-20261105-WA0158.jpg" alt="LUSARA Logo">
+                <img src="IMG-20261106-WA0000.jpg" alt="LUSARA Logo">
           </a>
 
         <p>A new era of expression.</p>
