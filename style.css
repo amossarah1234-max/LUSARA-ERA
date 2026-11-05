@@ -378,8 +378,10 @@ footer p {
     font-weight: 600;
     margin-top: 15px;
     transition: 0.3s;
-}
+    
+    }
 
-.tiktok-button:hover {
+    .tiktok-button:hover {
     background-color: #b7654d;
-}
+    
+    }
