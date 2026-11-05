@@ -367,8 +367,8 @@ footer p {
     .brand-message {
         gap: 12px;
     }
-}
-.tiktok-button {
+    
+    .tiktok-button {
     display: inline-block;
     background-color: #38251f;
     color: #ffffff;
