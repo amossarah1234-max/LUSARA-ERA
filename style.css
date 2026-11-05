@@ -385,3 +385,11 @@ footer p {
     background-color: #b7654d;
     
     }
+    
+    .footer-logo {
+    width: 70px;
+    height: auto;
+    display: block;
+    margin: 0 auto 10px;
+    
+    }
