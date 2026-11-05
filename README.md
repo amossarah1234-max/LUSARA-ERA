@@ -197,12 +197,10 @@
     <!-- Footer -->
     <footer>
 
-           <a href="#home" class="logo">
-                <img src="IMG-20261106-WA0000.jpg" alt="LUSARA Logo">
-          </a>
-
+        <img src="IMG-20261106-WA0000.jpg" alt="LUSARA Logo" class="bottom-logo">
+    
         <p>A new era of expression.</p>
-
+        
         <p>© 2026 LUSARA. All rights reserved.</p>
 
     </footer>
