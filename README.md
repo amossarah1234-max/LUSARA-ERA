@@ -21,7 +21,9 @@
 
     <!-- Navigation -->
     <header>
-        <a href="#home" class="logo">LUSARA<span>.</span></a>
+        <a href="#home" class="logo">
+             <img src="IMG-20261105-WA0158.jpg" alt="LUSARA Logo"
+        </a>
 
         <nav>
             <a href="#home">Home</a>
