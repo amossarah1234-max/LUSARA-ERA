@@ -175,15 +175,14 @@
             </p>
 
             <a
-                href="https://wa.me/234XXXXXXXXXX"
+                href="https://wa.me/message/XSMX7DAD7D6AC1"
                 class="contact-button"
                 target="_blank"
             >
                 CHAT WITH US ON WHATSAPP →
             </a>
-
-            <p>Instagram: @yourinstagram</p>
-            <p>TikTok: @yourtiktok</p>
+            
+            <a href="https://www.tiktok.com/@lusara01?_r=1&_t=ZS-9BA6SNg1vtP" target="_blank" rel="noopener noreferrer">
 
         </div>
 
