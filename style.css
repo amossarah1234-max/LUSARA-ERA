@@ -411,3 +411,18 @@ footer p {
     display: block;
    
     }
+    
+    .logo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    }
+
+    .logo img {
+    width: 180px;
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+   
+    }
