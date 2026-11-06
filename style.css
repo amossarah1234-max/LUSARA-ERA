@@ -403,3 +403,11 @@ footer p {
     margin: 10px auto;
    
     }
+    
+    .logo img {
+    max-width: 180px;
+    width: 100%;
+    height: auto;
+    display: block;
+   
+    }
